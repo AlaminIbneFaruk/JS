@@ -10,3 +10,9 @@ write a simple if-else.
 also, write it using ternary operator.
 
  */
+var num1,num2,result;
+num1=30;
+num2=20;
+result=num1>num2?num1*2:num1+num2;
+console.log(result);
+
